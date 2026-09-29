@@ -1,0 +1,10 @@
+{
+  "name": "sun-agent",
+  "version": "0.1.0",
+  "description": "Caixa de ferramentas para agentes do Claude Agent SDK: skills sob demanda com scripts que devolvem resultados curtos",
+  "author": {
+    "name": "ggbr"
+  },
+  "repository": "https://github.com/ggbr/sun-agent",
+  "keywords": ["agent-sdk", "skills", "tools", "token-efficiency"]
+}
